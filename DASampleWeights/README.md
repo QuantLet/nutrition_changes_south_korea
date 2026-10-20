@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: DASampleWeights
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Demographic analysis of the 1998 and 2016 KNHANES datasets using sample weights.
 
