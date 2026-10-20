@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: DATopFoodGroups
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Summarizes food group intake by kilocalories from the 1998 and 2015 KNHANES datasets.
 
