@@ -7,9 +7,9 @@
 ```
 Name of QuantLet: PlotMacronutrientIntake
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
-Description: Plots the kilocalorie intake by Macronutrients of the South Korean
+Description: Plots the kilocalorie intake by Macronutrients of the South Korean population from 1998 - 2015 using a area chart. Data is based on KNHANES datasets.
 
 Keywords: area chart, ggplot2, data visualization, macronutrients, kcal, kilocalories, calories, plot, South Korea, KNHANES
 
