@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: PlotGDPpCapita
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Plots the South Korean GDP per Capita (in current USD) data from 1967 - 2015 using ggplot2.
 
@@ -18,7 +18,7 @@ Author: Darius Jonda
 Submitted: 2016-02-02 by Darius Jonda
 
 Datafile: 
-- korea_gdp_p_capita.xlsx : 'Gross Domestic Products dataset in current USD. Source: databank.worldbank.org
+- korea_gdp_p_capita.xlsx : 'Gross Domestic Products dataset in current USD. Source: databank.worldbank.org'
 
 ```
 <div align="center">
