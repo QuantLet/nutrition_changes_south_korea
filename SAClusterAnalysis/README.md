@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: SAClusterAnalysis
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Computes k-means Cluster Analysis on 1998 and 2015 KNHANES Nutrition Survey dataset aiming to derive key dietary patterns based on 23 food groups
 
