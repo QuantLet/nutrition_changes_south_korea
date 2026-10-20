@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: DABmi
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Compares changes in Body Mass Index for the KNHANES 1998 and 2015 datasets
 
