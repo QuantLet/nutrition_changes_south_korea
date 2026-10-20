@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: SAPrincipalComponentAnalysis
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Computes Principal Component Analysis on KNHANES Nutrition Survey dataset aiming to derive key dietary patterns based on 23 food groups
 
