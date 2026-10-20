@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: SAMacronutrientChanges
 
-Published in: Bachelor Thesis "Nutrition Changes in South Korea
+Published in: Bachelor Thesis "Nutrition Changes in South Korea"
 
 Description: Computes t-test to compare kcal intake by macronutrients from KNHANES nutrition survey of 1998 and 2015
 
